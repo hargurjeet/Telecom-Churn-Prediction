@@ -58,7 +58,7 @@ We deployed the best-performing model as a RESTful API using Flask. The deployme
 ## Usage
 
 To use this project:
-1. Clone the repository: `git clone https://github.com/yourusername/telecom-churn-prediction.git`
+1. Clone the repository: `git clone https://github.com/hargurjeet/telecom-churn-prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Follow the notebooks in the [notebooks](notebooks/) directory for data preprocessing, EDA, feature engineering, and model development.
 4. For model deployment, follow the instructions in the [deployment](deployment/) directory.
